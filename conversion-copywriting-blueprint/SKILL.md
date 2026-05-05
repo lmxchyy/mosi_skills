@@ -1,9 +1,9 @@
 ---
-name: conversion-copywriting-blueprint
+name: marketing-copywriting
 description: Create, critique, and optimize high-converting advertising copy, landing page sections, social ads, short video scripts, email promos, and product launch copy using pain amplification, aspiration painting, scarcity, social proof, Hook-Bridge-CTA structure, and benefit-driven messaging. Use when the user asks for sales copy, conversion copywriting, ad copy, direct response copy, pain-point hooks, CTA optimization, or Chinese/English marketing copy that should drive action.
 ---
 
-# Conversion Copywriting Blueprint
+# Marketing Copywriting
 
 Use this skill to move from product description to problem solving, desire building, and decisive action. Prioritize conversion clarity over cleverness.
 
