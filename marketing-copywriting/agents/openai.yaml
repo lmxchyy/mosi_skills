@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Copywriting"
+  short_description: "Write persuasive ad copy that drives action."
+  default_prompt: "Use $marketing-copywriting to write a high-converting ad for my product."
